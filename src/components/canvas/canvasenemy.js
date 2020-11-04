@@ -117,16 +117,17 @@ class CanvasEnemy extends Component {
             }
             break;
 
-            case enemyXb  + 0 * enemyXd:  
-                case enemyXb  + 1 * enemyXd:
-                case enemyXb  + 2 * enemyXd:
-                    case enemyXb  + 3 * enemyXd:
-                    case enemyXb  + 4 * enemyXd:
-                        case enemyXb  + 5 * enemyXd:
-                        case enemyXb  + 6 * enemyXd:
-                            case enemyXb  + 7 * enemyXd:
-                            case enemyXb  + 8 * enemyXd:
-                                case enemyXb  + 9 * enemyXd:
+          case enemyXb  + 0 * enemyXd:  
+          case enemyXb  + 1 * enemyXd:
+          case enemyXb  + 2 * enemyXd:
+          case enemyXb  + 3 * enemyXd:
+          case enemyXb  + 4 * enemyXd:
+          case enemyXb  + 5 * enemyXd:
+          case enemyXb  + 6 * enemyXd:
+          case enemyXb  + 7 * enemyXd:
+          case enemyXb  + 8 * enemyXd:
+          case enemyXb  + 9 * enemyXd:
+            
           case enemyXb + 2 * enemyspeed + 0 * enemyXd:
           case enemyXb + 5 * enemyspeed + 0 * enemyXd:
           case enemyXb + 8 * enemyspeed + 0 * enemyXd:
