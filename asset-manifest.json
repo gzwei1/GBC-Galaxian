@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GBC-Galaxian/static/css/main.d4ceb2b8.chunk.css",
-    "main.js": "/GBC-Galaxian/static/js/main.40e9e903.chunk.js",
-    "main.js.map": "/GBC-Galaxian/static/js/main.40e9e903.chunk.js.map",
+    "main.js": "/GBC-Galaxian/static/js/main.896cbf88.chunk.js",
+    "main.js.map": "/GBC-Galaxian/static/js/main.896cbf88.chunk.js.map",
     "runtime-main.js": "/GBC-Galaxian/static/js/runtime-main.66b99446.js",
     "runtime-main.js.map": "/GBC-Galaxian/static/js/runtime-main.66b99446.js.map",
     "static/js/2.c0cd4487.chunk.js": "/GBC-Galaxian/static/js/2.c0cd4487.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.66b99446.js",
     "static/js/2.c0cd4487.chunk.js",
     "static/css/main.d4ceb2b8.chunk.css",
-    "static/js/main.40e9e903.chunk.js"
+    "static/js/main.896cbf88.chunk.js"
   ]
 }
