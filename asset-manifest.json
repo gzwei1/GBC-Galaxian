@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/GBC-Galaxian/static/css/main.b3070631.chunk.css",
-    "main.js": "/GBC-Galaxian/static/js/main.48ea10f4.chunk.js",
-    "main.js.map": "/GBC-Galaxian/static/js/main.48ea10f4.chunk.js.map",
+    "main.js": "/GBC-Galaxian/static/js/main.a9f143d2.chunk.js",
+    "main.js.map": "/GBC-Galaxian/static/js/main.a9f143d2.chunk.js.map",
     "runtime-main.js": "/GBC-Galaxian/static/js/runtime-main.81771341.js",
     "runtime-main.js.map": "/GBC-Galaxian/static/js/runtime-main.81771341.js.map",
-    "static/js/2.f8066693.chunk.js": "/GBC-Galaxian/static/js/2.f8066693.chunk.js",
-    "static/js/2.f8066693.chunk.js.map": "/GBC-Galaxian/static/js/2.f8066693.chunk.js.map",
+    "static/js/2.b96011c5.chunk.js": "/GBC-Galaxian/static/js/2.b96011c5.chunk.js",
+    "static/js/2.b96011c5.chunk.js.map": "/GBC-Galaxian/static/js/2.b96011c5.chunk.js.map",
     "static/js/3.677ba641.chunk.js": "/GBC-Galaxian/static/js/3.677ba641.chunk.js",
     "static/js/3.677ba641.chunk.js.map": "/GBC-Galaxian/static/js/3.677ba641.chunk.js.map",
     "index.html": "/GBC-Galaxian/index.html",
     "static/css/main.b3070631.chunk.css.map": "/GBC-Galaxian/static/css/main.b3070631.chunk.css.map",
-    "static/js/2.f8066693.chunk.js.LICENSE.txt": "/GBC-Galaxian/static/js/2.f8066693.chunk.js.LICENSE.txt",
+    "static/js/2.b96011c5.chunk.js.LICENSE.txt": "/GBC-Galaxian/static/js/2.b96011c5.chunk.js.LICENSE.txt",
     "static/media/beginimage.d1bb842e.jpg": "/GBC-Galaxian/static/media/beginimage.d1bb842e.jpg",
     "static/media/background.module.css": "/GBC-Galaxian/static/media/joy.1198b5c2.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.81771341.js",
-    "static/js/2.f8066693.chunk.js",
+    "static/js/2.b96011c5.chunk.js",
     "static/css/main.b3070631.chunk.css",
-    "static/js/main.48ea10f4.chunk.js"
+    "static/js/main.a9f143d2.chunk.js"
   ]
 }
