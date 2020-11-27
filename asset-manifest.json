@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/GBC-Galaxian/static/css/main.d4ceb2b8.chunk.css",
-    "main.js": "/GBC-Galaxian/static/js/main.896cbf88.chunk.js",
-    "main.js.map": "/GBC-Galaxian/static/js/main.896cbf88.chunk.js.map",
-    "runtime-main.js": "/GBC-Galaxian/static/js/runtime-main.66b99446.js",
-    "runtime-main.js.map": "/GBC-Galaxian/static/js/runtime-main.66b99446.js.map",
-    "static/js/2.c0cd4487.chunk.js": "/GBC-Galaxian/static/js/2.c0cd4487.chunk.js",
-    "static/js/2.c0cd4487.chunk.js.map": "/GBC-Galaxian/static/js/2.c0cd4487.chunk.js.map",
-    "static/js/3.70acc84b.chunk.js": "/GBC-Galaxian/static/js/3.70acc84b.chunk.js",
-    "static/js/3.70acc84b.chunk.js.map": "/GBC-Galaxian/static/js/3.70acc84b.chunk.js.map",
+    "main.css": "/GBC-Galaxian/static/css/main.db44fdd6.chunk.css",
+    "main.js": "/GBC-Galaxian/static/js/main.fd36c67d.chunk.js",
+    "main.js.map": "/GBC-Galaxian/static/js/main.fd36c67d.chunk.js.map",
+    "runtime-main.js": "/GBC-Galaxian/static/js/runtime-main.81771341.js",
+    "runtime-main.js.map": "/GBC-Galaxian/static/js/runtime-main.81771341.js.map",
+    "static/js/2.3e53aa08.chunk.js": "/GBC-Galaxian/static/js/2.3e53aa08.chunk.js",
+    "static/js/2.3e53aa08.chunk.js.map": "/GBC-Galaxian/static/js/2.3e53aa08.chunk.js.map",
+    "static/js/3.677ba641.chunk.js": "/GBC-Galaxian/static/js/3.677ba641.chunk.js",
+    "static/js/3.677ba641.chunk.js.map": "/GBC-Galaxian/static/js/3.677ba641.chunk.js.map",
     "index.html": "/GBC-Galaxian/index.html",
-    "static/css/main.d4ceb2b8.chunk.css.map": "/GBC-Galaxian/static/css/main.d4ceb2b8.chunk.css.map",
-    "static/js/2.c0cd4487.chunk.js.LICENSE.txt": "/GBC-Galaxian/static/js/2.c0cd4487.chunk.js.LICENSE.txt",
+    "static/css/main.db44fdd6.chunk.css.map": "/GBC-Galaxian/static/css/main.db44fdd6.chunk.css.map",
+    "static/js/2.3e53aa08.chunk.js.LICENSE.txt": "/GBC-Galaxian/static/js/2.3e53aa08.chunk.js.LICENSE.txt",
     "static/media/beginimage.d1bb842e.jpg": "/GBC-Galaxian/static/media/beginimage.d1bb842e.jpg",
-    "static/media/text.css": "/GBC-Galaxian/static/media/joy.1198b5c2.ttf"
+    "static/media/background.module.css": "/GBC-Galaxian/static/media/joy.1198b5c2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.66b99446.js",
-    "static/js/2.c0cd4487.chunk.js",
-    "static/css/main.d4ceb2b8.chunk.css",
-    "static/js/main.896cbf88.chunk.js"
+    "static/js/runtime-main.81771341.js",
+    "static/js/2.3e53aa08.chunk.js",
+    "static/css/main.db44fdd6.chunk.css",
+    "static/js/main.fd36c67d.chunk.js"
   ]
 }
