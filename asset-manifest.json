@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/glxn/static/css/main.e8a0a233.chunk.css",
-    "main.js": "/glxn/static/js/main.c9aa9e74.chunk.js",
-    "main.js.map": "/glxn/static/js/main.c9aa9e74.chunk.js.map",
-    "runtime-main.js": "/glxn/static/js/runtime-main.720ef8ea.js",
-    "runtime-main.js.map": "/glxn/static/js/runtime-main.720ef8ea.js.map",
-    "static/js/2.63bdde50.chunk.js": "/glxn/static/js/2.63bdde50.chunk.js",
-    "static/js/2.63bdde50.chunk.js.map": "/glxn/static/js/2.63bdde50.chunk.js.map",
-    "static/js/3.a5f6172a.chunk.js": "/glxn/static/js/3.a5f6172a.chunk.js",
-    "static/js/3.a5f6172a.chunk.js.map": "/glxn/static/js/3.a5f6172a.chunk.js.map",
-    "index.html": "/glxn/index.html",
-    "static/css/main.e8a0a233.chunk.css.map": "/glxn/static/css/main.e8a0a233.chunk.css.map",
-    "static/js/2.63bdde50.chunk.js.LICENSE.txt": "/glxn/static/js/2.63bdde50.chunk.js.LICENSE.txt",
-    "static/media/beginimage.d1bb842e.jpg": "/glxn/static/media/beginimage.d1bb842e.jpg",
-    "static/media/background.module.css": "/glxn/static/media/joy.1198b5c2.ttf"
+    "main.css": "/gzwei1.github.io/GBC-Galaxian/static/css/main.b27772fc.chunk.css",
+    "main.js": "/gzwei1.github.io/GBC-Galaxian/static/js/main.22070779.chunk.js",
+    "main.js.map": "/gzwei1.github.io/GBC-Galaxian/static/js/main.22070779.chunk.js.map",
+    "runtime-main.js": "/gzwei1.github.io/GBC-Galaxian/static/js/runtime-main.ccc9db16.js",
+    "runtime-main.js.map": "/gzwei1.github.io/GBC-Galaxian/static/js/runtime-main.ccc9db16.js.map",
+    "static/js/2.63bdde50.chunk.js": "/gzwei1.github.io/GBC-Galaxian/static/js/2.63bdde50.chunk.js",
+    "static/js/2.63bdde50.chunk.js.map": "/gzwei1.github.io/GBC-Galaxian/static/js/2.63bdde50.chunk.js.map",
+    "static/js/3.a5f6172a.chunk.js": "/gzwei1.github.io/GBC-Galaxian/static/js/3.a5f6172a.chunk.js",
+    "static/js/3.a5f6172a.chunk.js.map": "/gzwei1.github.io/GBC-Galaxian/static/js/3.a5f6172a.chunk.js.map",
+    "index.html": "/gzwei1.github.io/GBC-Galaxian/index.html",
+    "static/css/main.b27772fc.chunk.css.map": "/gzwei1.github.io/GBC-Galaxian/static/css/main.b27772fc.chunk.css.map",
+    "static/js/2.63bdde50.chunk.js.LICENSE.txt": "/gzwei1.github.io/GBC-Galaxian/static/js/2.63bdde50.chunk.js.LICENSE.txt",
+    "static/media/beginimage.d1bb842e.jpg": "/gzwei1.github.io/GBC-Galaxian/static/media/beginimage.d1bb842e.jpg",
+    "static/media/background.module.css": "/gzwei1.github.io/GBC-Galaxian/static/media/joy.1198b5c2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.720ef8ea.js",
+    "static/js/runtime-main.ccc9db16.js",
     "static/js/2.63bdde50.chunk.js",
-    "static/css/main.e8a0a233.chunk.css",
-    "static/js/main.c9aa9e74.chunk.js"
+    "static/css/main.b27772fc.chunk.css",
+    "static/js/main.22070779.chunk.js"
   ]
 }
